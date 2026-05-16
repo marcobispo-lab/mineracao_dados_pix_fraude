@@ -1,0 +1,14 @@
+# Dados
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Ambiente Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
